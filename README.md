@@ -1,2 +1,2 @@
 # Code-CPP<br>
-Here are some the basic CPP pfojects.
+Here are some the basic CPP projects.
